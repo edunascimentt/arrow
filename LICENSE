@@ -1,0 +1,19 @@
+Arrow — Proprietary Software License
+Copyright (c) 2026 edunascimentt. All rights reserved.
+
+This repository distributes the Arrow application as compiled binaries only.
+The source code is not provided and is not licensed for use.
+
+You are granted a personal, non-exclusive, non-transferable license to download
+and run the provided binaries for personal use. You may NOT:
+
+  - copy, redistribute, sell, sublicense, or host the binaries elsewhere;
+  - reverse engineer, decompile, or disassemble the software;
+  - modify or create derivative works.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+OR OTHER DEALINGS IN THE SOFTWARE.
